@@ -27,5 +27,5 @@ Learn how to log, track, and close tickets while maintaining clear communication
 
 
 ## Installation Guide for VMware Workstation Pro
-For detailed instructions, visit the [Wiki Installation Guide](https://github.com/yourusername/yourrepository/wiki/VMware-Workstation-Pro-Installation-Guide).
+For detailed instructions, visit the [VMware Installation Guide](https://github.com/BeyondBinaryMinds/VMware-IT-Support-Lab/wiki/VMware-Workstation-Pro-Installation-Guide.).
 
